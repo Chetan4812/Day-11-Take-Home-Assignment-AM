@@ -1,0 +1,6 @@
+Date,Product_ID,Product_Name,Category,Quantity,Price_Per_Unit,Total_Sale
+2023-01-01,101,Widget A,Electronics,2,25.00,50.00
+2023-01-02,102,Widget B,Home,1,45.50,45.50
+2023-01-03,101,Widget A,Electronics,5,25.00,125.00
+2023-01-04,103,Widget C,Office,3,15.75,47.25
+2023-01-05,102,Widget B,Home,2,45.50,91.00
